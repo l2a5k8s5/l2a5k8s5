@@ -1,5 +1,5 @@
 <!-- 👋 Welcome & Header -->
-<h1 align="center">👋 Hi, I’m Lakshay (l2a5k8s5)</h1>
+<h1 align="center">👋 Hi, I’m Lakshay </h1>
 <h3 align="center">Full-Stack Developer | MERN · Java · C++ | Cloud & Problem-Solving Enthusiast</h3>
 
 <p align="center">
