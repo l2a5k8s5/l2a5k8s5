@@ -9,7 +9,7 @@
 ---
 
 ## 🔭 What I’m Building / Working On  
-- 🏥 A Hospital/Healthcare-Management app (check out **hms**, **HospitalManagement**, **medi-hub** repos)  
+- 🏥 A HealthNest Enterprises Website(A multi E-commerce site). 
 - 📝 Web apps using MERN stack (React + Node.js + MongoDB)  
 - 💡 Continually enhancing my skills in Java, C++, and Cloud technologies  
 
@@ -31,7 +31,7 @@
 
 | Project | Description |
 |--------|-------------|
-| **hms** / **HospitalManagement** / **medi-hub** | Hospital / medical-store management web apps using MERN stack |
+| **MindEase** | Mental-wellness platform with real-time chat, mental test system, volunteer support (MERN + Socket.IO + AI/ML) |
 | **Social.ly** | Social-media style app (fork) — useful for learning backend/frontend integrations |
 | **Git-Start** | A simple JS-based starter or practice repo |
 
@@ -55,6 +55,9 @@
   </a>
   <a href="https://leetcode.com/u/Laksh2585/">
     <img src="https://img.shields.io/badge/LeetCode-F89F1B?style=for-the-badge&logo=leetcode&logoColor=white">
+  </a>
+  <a href="mailto:lakshaybhatia2585@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white">
   </a>
 </p>
  
